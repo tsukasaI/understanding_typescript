@@ -1,0 +1,16 @@
+{
+  "name": "understanding_ts",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "author": "tsukasa inoue <inoue.tsukasa.4@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "start": "http-server"
+  }
+}
